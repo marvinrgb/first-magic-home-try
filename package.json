@@ -1,0 +1,26 @@
+{
+  "name": "first-magic-home-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvinrgb/first-magic-home-try.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marvinrgb/first-magic-home-try/issues"
+  },
+  "homepage": "https://github.com/marvinrgb/first-magic-home-try#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "magic-home": "^2.9.0",
+    "nodemon": "^2.0.20"
+  },
+  "type": "module"
+}

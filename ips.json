@@ -1,0 +1,26 @@
+[
+    {
+        "address": "192.168.2.166",
+        "id": "C44F33AE0B2E",
+        "model": "AK001-ZJ2101",
+        "name": "Zimmer_Fenster_Außen" 
+    },
+    {
+        "address": "192.168.2.167",
+        "id": "C44F33A167D8",
+        "model": "AK001-ZJ210",
+        "name": "Zimmer_Fenster_Innen" 
+    },
+    {
+        "address": "192.168.2.168",
+        "id": "C44F339F6D30",
+        "model": "AK001-ZJ210",
+        "name": "Zimmer_Tür_Innen" 
+    },
+    {
+        "address": "192.168.2.218",
+        "id": "D8F15BCF5D33",
+        "model": "AK001-ZJ2101",
+        "name": "Zimmer_Tür_Außen" 
+    }
+]
