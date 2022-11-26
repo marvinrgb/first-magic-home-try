@@ -7,6 +7,14 @@
   <title>Document</title>
 </head>
 <body>
-  <audio src=""></audio>
+  <audio controls src="audio/warriors_hardcore.mp3" onplay="start()"></audio>
+
+  <script>
+    function start() {
+      fetch('startAnimation', {
+        method: "POST"
+      })
+    }
+  </script>
 </body>
 </html>
